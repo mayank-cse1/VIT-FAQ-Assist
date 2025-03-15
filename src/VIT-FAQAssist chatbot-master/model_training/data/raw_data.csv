@@ -1,0 +1,544 @@
+yo,gen_hi
+Heya,gen_hi
+Namaste,gen_hi
+Hey,gen_hi
+Great to see you!,gen_hi
+Ssup,gen_hi
+Whatup,gen_hi
+Yo,gen_hi
+hello,gen_hi
+Howdy,gen_hi
+hey there,gen_hi
+Hey There!,gen_hi
+Hello!,gen_hi
+Hey there,gen_hi
+Hey buddy !,gen_hi
+Hi need support ,gen_hi
+Hii,gen_hi
+Heyo,gen_hi
+Hello!,gen_hi
+Hello there!,gen_hi
+Hello There! ,gen_hi
+Yo,gen_hi
+Hii,gen_hi
+what's up,gen_how_you
+What's up,gen_how_you
+Wassup,gen_how_you
+How are you doing,gen_how_you
+How's life treating you?,gen_how_you
+How is life?,gen_how_you
+How ya doin,gen_how_you
+Sup,gen_how_you
+how you doing?,gen_how_you
+How do you do,gen_how_you
+sup ?,gen_how_you
+How do you do?,gen_how_you
+How have you been?,gen_how_you
+How are you doing,gen_how_you
+I am great ! Thank you ! ,gen_how_you
+Wassup,gen_how_you
+How are you?,gen_how_you
+What's new?,gen_how_you
+How you doin?,gen_how_you
+Wassup,gen_how_you
+Okayisk,gen_how_you
+who are you?,gen_who_you
+What're you?,gen_who_you
+Who am I talking to?,gen_who_you
+Who are you?,gen_who_you
+May I know the Identity of this person?,gen_who_you
+What do you do here,gen_who_you
+Who you,gen_who_you
+who are u ?,gen_who_you
+whats your name ?,gen_who_you
+thou shall reveal yourself,gen_who_you
+May I get your name pls?,gen_who_you
+What do they call you,gen_who_you
+Have I met you anywhere ?,gen_who_you
+How abt you ,gen_who_you
+Me! It�s me !,gen_who_you
+Who dis,gen_who_you
+May I know who you are?,gen_who_you
+How can you help me?,gen_who_you
+What's your name?,gen_who_you
+Do I know u,gen_who_you
+Me! It�s me !,gen_who_you
+u a bot?,gen_bot
+Are you an AI?,gen_bot
+"You are a bot, aren't you?",gen_bot
+Are you a bot,gen_bot
+Are you a man made,gen_bot
+"Say, you wouldn�t happen to be a bot would you?",gen_bot
+Are you a computer?,gen_bot
+am i talking to a bot?,gen_bot
+You sound like a bot.,gen_bot
+Are you real ? ,gen_bot
+are you not a human?,gen_bot
+Are you a bot perhaps?,gen_bot
+Are you a robot,gen_bot
+"You sound like a bot , are you ? ",gen_bot
+R u robot,gen_bot
+Are you a bot,gen_bot
+Are you a bot?,gen_bot
+Are you a robot?,gen_bot
+Are you a bot?,gen_bot
+Stupid bot,gen_bot
+u a human?,gen_human
+Are you a homo sapien?,gen_human
+"I don't think you're a human, are you?",gen_human
+Are you human,gen_human
+"""What shape is created by straightening all your fingers, curling all fingers except thumb toward your palm on both hands, and putting your hands together so all fingers on one hand touch the respective finger on the other the hand",gen_human
+Are you a living being,gen_human
+Are you a person,gen_human
+Do you have feelings?,gen_human
+are you a person?,gen_human
+"you're not a human, are you?",gen_human
+are you flesh?,gen_human
+"If you don't mind me asking, are you human?",gen_human
+Are you one of us,gen_human
+I don�t think you are a human or are you ?,gen_human
+Or u r human,gen_human
+hooman.?,gen_human
+Are you human?,gen_human
+Are you a person or a bot?,gen_human
+"Humans amuse me, are you one?",gen_human
+You're not human,gen_human
+More than,gen_human
+who made you?,gen_who_made
+Who're your parents?,gen_who_made
+Who created you?,gen_who_made
+Who is your creator,gen_who_made
+May i know the identity of you're creator/creators?,gen_who_made
+What kind of organism are you,gen_who_made
+Who art thy creator,gen_who_made
+Who�re you�re parents,gen_who_made
+who made you?,gen_who_made
+who created you?,gen_who_made
+who owns you ?,gen_who_made
+who is your owner?,gen_who_made
+Who is your creator?,gen_who_made
+Who is your creator,gen_who_made
+Who is your creator ? ,gen_who_made
+Who made you ,gen_who_made
+What master do you serve,gen_who_made
+Who created you?,gen_who_made
+Who created you? ,gen_who_made
+Who made you?,gen_who_made
+Bot specs,gen_who_made
+That handsome guy named Harsh,gen_who_made
+plis help,gen_help
+Can I get some help?,gen_help
+I want some help. Can you help me?,gen_help
+Can you help me,gen_help
+"If its not too much to ask , can you assist me?",gen_help
+I need help,gen_help
+I�m having a problem ,gen_help
+I need a favour ,gen_help
+can u help me?,gen_help
+can you be of any help to me?,gen_help
+would you help me ?,gen_help
+could you please help me out here?,gen_help
+I got a problem. Some help would be nice.,gen_help
+Can you do me a favor,gen_help
+Are you able to help me ?,gen_help
+Need your help,gen_help
+Can you help me ?,gen_help
+Can you help me?,gen_help
+I need assistance,gen_help
+Please help me?,gen_help
+Save me,gen_help
+I am made for that,gen_help
+quick question?,gen_query
+Hey I had a question,gen_query
+I have a question,gen_query
+I wanted to ask something,gen_query
+"i have a doubt lingering in my head, do you mind clarifying it for me ?",gen_query
+I have a doubt,gen_query
+Got a question for you,gen_query
+I didn�t understand this,gen_query
+i have doubt,gen_query
+i might have a query,gen_query
+i have a question to ask,gen_query
+Actually I have some questions.,gen_query
+I have a question,gen_query
+I have a question ! ,gen_query
+I can�t understand ,gen_query
+I have a question,gen_query
+I have a query,gen_query
+I have some doubts,gen_query
+Can you solve my doubt?,gen_query
+Could u answer my doubts,gen_query
+Go ahead ,gen_query
+what is VIT,VIT_what
+Can you tell me about VIT,VIT_what
+What is VIT?,VIT_what
+What is VIT,VIT_what
+May i know what VIT stands for?,VIT_what
+What is VIT,VIT_what
+What even is VIT,VIT_what
+Who is VIT,VIT_what
+what is VIT basically,VIT_what
+what is VIT,VIT_what
+VIT who ?,VIT_what
+what is VIT?,VIT_what
+What exactly is VIT,VIT_what
+What is this website,VIT_what
+I want to know something about VIT,VIT_what
+What is VIT,VIT_what
+What is VIT,VIT_what
+Can you tell me what VIT is ?,VIT_what
+Explain about VIT,VIT_what
+What is VIT and what is it about?,VIT_what
+VIT?,VIT_what
+My parents ,VIT_what
+what does VIT do,VIT_what_does
+What do you guys do,VIT_what_does
+Does VIT do something?,VIT_what_does
+What does VIT do,VIT_what_does
+what is the objective of VIT?,VIT_what_does
+What do you do,VIT_what_does
+What do they do,VIT_what_does
+What do you do at VIT,VIT_what_does
+what does VIT do,VIT_what_does
+what do the people who created you do?,VIT_what_does
+what do they do?,VIT_what_does
+What does the chapter contribute to?,VIT_what_does
+What does VIT do,VIT_what_does
+I want to know what VIT does !,VIT_what_does
+What it does,VIT_what_does
+What are VIT's functions,VIT_what_does
+What does VIT do?,VIT_what_does
+Tell me how VIT works ,VIT_what_does
+What does VIT do?,VIT_what_does
+What's VIT actually do,VIT_what_does
+Makes me,VIT_what_does
+are all VIT's in vit same?,VIT_other_linked
+Are clubs like VIT Cs branches of you guys?,VIT_other_linked
+Is VIT and VIT-WIE the same?,VIT_other_linked
+Are other VITs in vit linked to you in any way,VIT_other_linked
+is there any difference between the various VIT or does all the VIT belong under one main Organization?,VIT_other_linked
+There are many VIT in VIT are they the same?,VIT_other_linked
+Do the other VITs in VIT have anything to do with you,VIT_other_linked
+Is this the same VIT which i see in other colleges,VIT_other_linked
+are other VIT chapters are way linked to you,VIT_other_linked
+are all VITs in VIT headed by you?,VIT_other_linked
+is VIT-WIE part of VIT ?,VIT_other_linked
+are VIT-CS and VIT same?,VIT_other_linked
+"There are so many VITs in VIT, are all of these linked to each other?",VIT_other_linked
+Is the other VITs of VIT connected to this,VIT_other_linked
+Are all VITs from VIT are interlinked ?,VIT_other_linked
+Ais this  linked to vit,VIT_other_linked
+Are the other VITs with specialisations linked to VIT,VIT_other_linked
+Are other VIT chapters in VIT linked to yours?,VIT_other_linked
+Does VIT have different branches? ,VIT_other_linked
+What about the VIT offshoots,VIT_other_linked
+how are other college VIT linked to you,VIT_other_college
+Do you guys have any connection to other VITs,VIT_other_college
+Does VIT VIT work with other VITs around the world?,VIT_other_college
+How are VIT's in other colleges linked to you,VIT_other_college
+is there connections with various VITs across the world?,VIT_other_college
+Are different VITs linked,VIT_other_college
+Do you have anything to do with VITs in other colleges ,VIT_other_college
+How are you connected to the other VITs,VIT_other_college
+how many other college VIT are linked to you guys,VIT_other_college
+what is the relation between VITs of other colleges and VIT's?,VIT_other_college
+VIT-srm and VIT-VIT same?,VIT_other_college
+How does VIT VIT vellore communicate with VIT in other colleges?,VIT_other_college
+Does VIT of other colleges connected to you,VIT_other_college
+Are VITs from other colleges are linked with your�s?,VIT_other_college
+How they are linked,VIT_other_college
+How are VIT chapters across colleges connected ?,VIT_other_college
+How are the VITs of other colleges linked to yours?,VIT_other_college
+Do you have links with VITs outside VIT? ,VIT_other_college
+How VIT of other colleges are linked with the VIT in VIT?,VIT_other_college
+What about the other colleges versions,VIT_other_college
+since when has VIT been there,VIT_how_long
+How old is this chapter,VIT_how_long
+When was VIT established?,VIT_how_long
+How long has VIT been around,VIT_how_long
+when was VIT created?,VIT_how_long
+How old are you,VIT_how_long
+How old is VIT,VIT_how_long
+When was VIT found,VIT_how_long
+how long has been VIT around,VIT_how_long
+how old is VIT?,VIT_how_long
+Whens your birthday ?,VIT_how_long
+how old is VIT?,VIT_how_long
+When was VIT established?,VIT_how_long
+When was VIT created,VIT_how_long
+When was this VIT founded ?,VIT_how_long
+How long it�s been around ,VIT_how_long
+How long has VIT existed ?,VIT_how_long
+For how long has VIT been around?,VIT_how_long
+What's the age of this chapter?,VIT_how_long
+How long has VIT been around?,VIT_how_long
+How old is VIT,VIT_how_long
+what project do you do,VIT_projects
+What all do you guys dl,VIT_projects
+What does VIT do?,VIT_projects
+What kind of projects does VIT do,VIT_projects
+What kind of projects do VIT focus on?,VIT_projects
+What do you do,VIT_projects
+What kinda projects do yall do,VIT_projects
+What do you make at VIT,VIT_projects
+what kind of projects do u guys doo,VIT_projects
+what all do you people make other than chatbots?,VIT_projects
+Do you do cool stuff ?,VIT_projects
+what are some project?,VIT_projects
+What are the projects that are done under VIT?,VIT_projects
+What kinda stuff does VIT do,VIT_projects
+What is it that VIT does exactly?,VIT_projects
+What kind of projects you do ,VIT_projects
+What kind of work does VIT do ?,VIT_projects
+What kind of projects does VIT do?,VIT_projects
+Tell me about the projects VIT does ,VIT_projects
+What kind of projects does VIT do?,VIT_projects
+What kind of stuff has VIT done,VIT_projects
+what domains do you cover,VIT_domains
+What kinds of work do you guys do,VIT_domains
+What domains other than electronics does VIT have?,VIT_domains
+What domains does VIT cover,VIT_domains
+what are the various sub divisions of VIT,VIT_domains
+What do you do,VIT_domains
+Give me an idea of the domains you cover,VIT_domains
+What tech do you do ,VIT_domains
+what all domains do u guys do,VIT_domains
+which all technologies do you people work on?,VIT_domains
+what domains does VIT cover?,VIT_domains
+What all domains will I get to learn in VIT?,VIT_domains
+What are the domains you have,VIT_domains
+Which are the domains you are active in ?,VIT_domains
+What kind of domains you have,VIT_domains
+What domains does VIT cover,VIT_domains
+What all domains does your chapter cover?,VIT_domains
+Give me a list of domains ,VIT_domains
+What domains r there,VIT_domains
+github?,VIT_github
+Can I have a look at your GitHub,VIT_github
+Show me VIT's GitHub ,VIT_github
+What githup repos does VIT have,VIT_github
+GitHub links,VIT_github
+Can you tell me about repositories on GitHub ,VIT_github
+Do you have a github repo where i can see the codebase,VIT_github
+can i get link of the git repo of your projects,VIT_github
+i'm guessing you guys have an impressive github repo.,VIT_github
+can you link your github repo ?,VIT_github
+are you guys on GitHub?,VIT_github
+Show me your Github repos,VIT_github
+Tell me about Github repos !,VIT_github
+Where can i find the GitHub repos of VIT,VIT_github
+Can you tell me about your GitHub repos?,VIT_github
+I wanna check out the VIT GitHub repository,VIT_github
+Do you have any GitHub links I can pursue,VIT_github
+events?,VIT_past_events
+What sorts of events do you guys organize,VIT_past_events
+What all events does VIT organise?,VIT_past_events
+What events has VIT conducted,VIT_past_events
+Are there many events that VIT have conducted?,VIT_past_events
+What have you done,VIT_past_events
+What sorta events have yall done in the past ,VIT_past_events
+Which are the events you conduct,VIT_past_events
+past event conducted,VIT_past_events
+which are the major events conducted by you guys?,VIT_past_events
+Do you conduct events ?,VIT_past_events
+What are the past events?,VIT_past_events
+What all events have you hosted?,VIT_past_events
+What are your flagship events,VIT_past_events
+Which successful events have been conducted by you till now ?,VIT_past_events
+Which events you conducted ,VIT_past_events
+What events has VIT conducted in the past,VIT_past_events
+What are the events VIT VIT has conducted in the past??,VIT_past_events
+Tell me about the past events,VIT_past_events
+Name some famous events of urs,VIT_past_events
+upcoming events?,VIT_future_events
+What all events can I expect in the future,VIT_future_events
+What VIT event is coming soon?,VIT_future_events
+What events is VIT planning for future,VIT_future_events
+is there any event that is upcoming ?,VIT_future_events
+What would you do,VIT_future_events
+Any idea about future events?,VIT_future_events
+any events coming up?,VIT_future_events
+what all events are coming soon?,VIT_future_events
+upcoming event ?,VIT_future_events
+what are the future events?,VIT_future_events
+What are the upcoming events that you'll host?,VIT_future_events
+Any future programs,VIT_future_events
+What are your future projects ?,VIT_future_events
+What kind of events do you conduct,VIT_future_events
+What are upcoming VIT events,VIT_future_events
+What events will the chapter conduct in the future?,VIT_future_events
+Are there any upcoming events?,VIT_future_events
+Any events coming up,VIT_future_events
+socials?,VIT_social_media
+What're your socials,VIT_social_media
+How can I find VIT on social media?,VIT_social_media
+What are VITs social media handles,VIT_social_media
+is there any way to contact VIT on social media?,VIT_social_media
+Your media pages,VIT_social_media
+Where can I hit you up on social media,VIT_social_media
+can i get link of ur social media handles,VIT_social_media
+where can i stalk you?,VIT_social_media
+are you on any social media ?,VIT_social_media
+what is your instagram handle?,VIT_social_media
+Where can I contact you?,VIT_social_media
+Show me some platforms to connect with your org,VIT_social_media
+Which social medias do you use ? ,VIT_social_media
+Are you on social media ,VIT_social_media
+What's VIT's insta,VIT_social_media
+Can you tell me about your social media handles?,VIT_social_media
+Where can I follow VIT? ,VIT_social_media
+Insta? Twitter?,VIT_social_media
+how to join?,VIT_be_part_who
+Can I be a part of VIT,VIT_be_part_who
+Can I take part in VIT?,VIT_be_part_who
+How to become a part of VIT,VIT_be_part_who
+is there a way i can be a part of VIT?,VIT_be_part_who
+Can I be a part,VIT_be_part_who
+Who can join VIT,VIT_be_part_who
+who can be a part of VIT,VIT_be_part_who
+who all can be a part of this chapter?,VIT_be_part_who
+what if i wanna be a part ?,VIT_be_part_who
+how to join VIT,VIT_be_part_who
+Is there any criteria for being a part of VIT?,VIT_be_part_who
+Can i be part of your club,VIT_be_part_who
+What are the selection criterias for being part of VIT ?,VIT_be_part_who
+Can we be part of VIT,VIT_be_part_who
+Who can join VIT,VIT_be_part_who
+Who all can be a part of VIT?,VIT_be_part_who
+Am I eligible to join VIT?,VIT_be_part_who
+Can I join,VIT_be_part_who
+techloop?,VIT_techloop
+What's that techloop thing I heard about,VIT_techloop
+What is Techloop?,VIT_techloop
+What is techloop all about,VIT_techloop
+is there a way i can learn all the various domains in VIT without being a part of the organization?,VIT_techloop
+What is Techloop,VIT_techloop
+What is techloop,VIT_techloop
+what are techloops,VIT_techloop
+what are techloops,VIT_techloop
+what is loop?,VIT_techloop
+"I have heard VIT conducts techloops, what is that exactly?",VIT_techloop
+What is this techloop,VIT_techloop
+Tell me about techloop !,VIT_techloop
+What abt techloop,VIT_techloop
+What is techloop,VIT_techloop
+What exactly is techloop?,VIT_techloop
+Explain techloop ,VIT_techloop
+What is techloop about?,VIT_techloop
+What's tech loop,VIT_techloop
+where human?,VIT_further_contact
+Where can I message you guys,VIT_further_contact
+What are VIT's contact details?,VIT_further_contact
+How do we contact you in future,VIT_further_contact
+can you give me you're contact details?,VIT_further_contact
+How do we get in touch with you,VIT_further_contact
+How can we contact you for more information,VIT_further_contact
+can i get a your contact info,VIT_further_contact
+how can i get more info,VIT_further_contact
+I wannt more details,VIT_further_contact
+how to talk to you?,VIT_further_contact
+"If any situation arises, how will VIT contact me?",VIT_further_contact
+How can i connect with you ,VIT_further_contact
+May I have your contact details ?,VIT_further_contact
+How to contact you,VIT_further_contact
+Further contact,VIT_further_contact
+Who do I contact for further details?,VIT_further_contact
+How do I get in touch with you?,VIT_further_contact
+Any contact info,VIT_further_contact
+collaborate?,VIT_collab
+Can we collaborate with your chapter?,VIT_collab
+Can we host an event together?,VIT_collab
+How can we collaborate with VIT,VIT_collab
+can i get in touch with VIT for future collaborations?,VIT_collab
+Can we collaborate,VIT_collab
+Can we collaborate with you,VIT_collab
+how do i collaborate with you guys,VIT_collab
+we wanna collaborate with you people,VIT_collab
+can we collaborate?,VIT_collab
+Can we do a collaboration together?,VIT_collab
+Can we do a collab with VIT,VIT_collab
+Can we club our events together ?,VIT_collab
+Do u collaborate with other company ,VIT_collab
+How do i reach out for collaboration with VIT,VIT_collab
+Can we collaborate with VIT or do an event together?,VIT_collab
+Any chance of collaboration?,VIT_collab
+I want to collaborate,VIT_collab
+can i sponsor y'all?,VIT_sponsor
+We have a sponsorship offer for you if you want it.,VIT_sponsor
+Can we provide VIT some financial aid?,VIT_sponsor
+Do you need sponsorship,VIT_sponsor
+what our the ways in which i can Sponsor VIT?,VIT_sponsor
+Do you need funding,VIT_sponsor
+Are you in need of sponsors ,VIT_sponsor
+can i sponsor the event,VIT_sponsor
+does VIT by any chance need sponsorship?,VIT_sponsor
+how to sponsor?,VIT_sponsor
+"I have seen how you conduct your events, I wish you sponsor you for one of the events in the coming future.",VIT_sponsor
+Are you in the need of any sponsors,VIT_sponsor
+Can we have honour to sponsor your events ?,VIT_sponsor
+We can give you sponsorship ,VIT_sponsor
+I would like to discuss some sponsorship proposals,VIT_sponsor
+Do you require sponsorship?,VIT_sponsor
+"I'm interested in sponsoring this event, whom should I contact?",VIT_sponsor
+I want to sponsor,VIT_sponsor
+Board?,VIT_current_board
+Who all are the leaders in your chapter so far,VIT_current_board
+Who are the heads of VIT,VIT_current_board
+Who are the current board members,VIT_current_board
+May i know who the heads of the organizations are?,VIT_current_board
+Who are you heads,VIT_current_board
+What does your board look like,VIT_current_board
+who are current board,VIT_current_board
+who all are the current board members of VIT?,VIT_current_board
+who leads VIT?,VIT_current_board
+Can I get to know about the board of VIT?,VIT_current_board
+Show me your board members,VIT_current_board
+Can we have details if your board members ?,VIT_current_board
+Who r board members,VIT_current_board
+Who are the current board members of VIT,VIT_current_board
+Who are the current board members?,VIT_current_board
+List of board members ,VIT_current_board
+Who's on the board,VIT_current_board
+ok bye,gen_bye
+Goodbye,gen_bye
+see ya!,gen_bye
+Arigato,gen_bye
+See you,gen_bye
+Nice to meet you ! ,gen_bye
+Thank u bye ,gen_bye
+bye bye,gen_bye
+adios,gen_bye
+bye till next time,gen_bye
+bbye,gen_bye
+goodbye,gen_bye
+Appreciate your help ,gen_thanks
+Thanks,gen_thanks
+Au revoir!,gen_thanks
+Thank You,gen_thanks
+Appreciate your help. Goodbye. ,gen_thanks
+thanks,gen_thanks
+Yup that's all,gen_thanks
+thanks a lot,gen_thanks
+Thank You very much,gen_thanks
+Thankyou for the information!,gen_thanks
+"Great, thanks!",gen_thanks
+Get post,gen_thanks
+Thank you for solving my doubts.,gen_thanks
+thanks for helping me,gen_thanks
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,

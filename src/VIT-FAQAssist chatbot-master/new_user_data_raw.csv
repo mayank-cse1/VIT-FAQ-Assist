@@ -1,0 +1,8 @@
+,input_query,classified_intent
+0,what is vit,VIT_what
+1,VIT,VIT_what
+2,VIT sponsors,VIT_what
+3,social media page,VIT_collab
+4,vit's facebook page,VIT_what
+5,vit,VIT_what
+6,hi,gen_hi

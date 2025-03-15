@@ -1,0 +1,172 @@
+{
+    "VIT_github": [
+        {"op":"Sure check us out at https://github.com/VIT-VIT"},
+        {"op":"Definietly! check us out at VIT-VIT on GitHub!"},
+        {"op":"Just follow this link https://github.com/VIT-VIT and there you go!"}], 
+    
+    "VIT_how_long": [
+        {"op":"Hmm, let me check. It has been over 8 years now."},
+        {"op":"Counting the years. 8 years it is."},
+        {"op":"It's been more than 8 years last time I checked!"}], 
+    
+    "gen_who_made": [
+        {"op":"I was created by VIT-VIT SB"},
+        {"op":"None other than VIT-VIT student chapter!"},
+        {"op":"I am brought to you by VIT-VIT"}], 
+    
+    "VIT_domains": [
+        {"op":"We have all types of domains covered. From web-dev to Machine Lerning to Electronics to Design!"},
+        {"op":"You name it, we got it. From web-dev to Machine Lerning to Electronics to Design!"},
+        {"op":"We have everything from web-dev to Machine Lerning to Electronics to Design covered!"}], 
+    
+    "VIT_be_part_who": [
+        {"op":"We recruit only First Years annually. But anyone is welcome to be part of our TechLoop Community!"},
+        {"op":"If you are a First Year student, keep a close eye on our recruitments! But anyone is welcome to be part of our TechLoop Community!"},
+        {"op":"First Years, look out for our recruitments. Everyone else, look out for our TechLoop Community!"}], 
+    
+    "gen_human": [
+        {"op":"No I am not a human"},
+        {"op":"Certainly not"},
+        {"op":"Human? Meh."}], 
+    
+    "VIT_past_events": [
+        {"op":"We had quite a few events. Few include: Enigma, CTF, Palette and much more!"},
+        {"op":"A few include: Enigma, CTF, Palette and much more!"},
+        {"op":"Enigma, CTF, Palette, ML workshop are a few ones to name."}], 
+    
+    "VIT_sponsor": [
+        {"op":"We are delighted to hear that. Please contact us via collaborationVITvit@gmail.com, thanks!"},
+        {"op":"That would be amazing! please mail us atcollaborationVITvit@gmail.com, thank you!"},
+        {"op":"That would be awesome! Please mail us at collaborationVITvit@gmail.com, we will get back to you shortly, thanks!"}], 
+    
+    "gen_help": [
+        {"op":"Sure, what do you want me to do?"},
+        {"op":"That's my job! What do you need help with"},
+        {"op":"provide help is what I do"},
+        {"op":"Definitely, by any means possible"}], 
+    
+    "VIT_projects": [
+        {"op":"We have some amazing projects that we built. Head over to our GitHub to see them!"},
+        {"op":"Head over to our GitHub to see all the cool projects built by members of VIT-VIT!"},
+        {"op":"Our GitHub is your one stop destination to all the answers you need!"}], 
+    
+    "gen_who_you": [
+        {"op":"I am a bot, here to help."},
+        {"op":"I am a chatbot."},
+        {"op":"I am an AI powered bot."},
+        {"op":"Chatbot. That's what I am."}], 
+    
+    "VIT_what_does": [
+        {"op":"Members of VIT VIT are active participants in national and international level hackathons and involve in multiple projects."},
+        {"op":"We Ideate. We innovate. We Inspire."},
+        {"op":"We love to build cool projects and participate in all kinds of national and international hacks and win them!"}], 
+    
+    "gen_hi": [
+        {"op":"Hi!"},
+        {"op":"Hello!"},
+        {"op":"Hey!"},
+        {"op":"Hola!"}], 
+    
+    "VIT_collab": [
+        {"op":"Please send a mail to collaborationVITvit@gmail.com for further discussion, thanks."},
+        {"op":"Please send a mail to collaborationVITvit@gmail.com, someone from VIT-VIT will get back to you shortly."},
+        {"op":"Please mail us at collaborationVITvit@gmail.com thank you."}], 
+    
+    "gen_thanks": [
+        {"op":"You are welcome!"},
+        {"op":"Anyime!"},
+        {"op":"You are most welcome!"},
+        {"op":"Happy to help!"}], 
+    
+    "VIT_other_college": [
+        {"op":"We are not directly affiliated to them, but we share a common region (Region 10 of VIT International) with a few."},
+        {"op":"We share a common parent (Region 10 of VIT International) with a few."},
+        {"op":"Not directly. But we have a common region (Region 10 of VIT International) with a few."}], 
+    
+    "VIT_current_board": [
+        {"op":"Meet our team under Board section!"},
+        {"op":"We have few amazing people as our board. Get to know them under Board section!"},
+        {"op":"I can't answer that, but redirect you for sure. Head over to Board section to meet our team!"}], 
+    
+    "VIT_other_linked": [
+        {"op":"Nope, we are not linked with any other branched VIT(s) of VIT"},
+        {"op":"We are not affiliated with other sub VIT(s) of VIT in any way"},
+        {"op":"VIT-VIT core is an independent body and is not linked with any branched VIT(s) of VIT"}], 
+    
+    "VIT_social_media": [
+        {
+            "op": "sure! check us out at @VITvitvellore on Instagram and Twitter!"
+        },
+        {
+            "op": "here you go! @VITvitvellore on Instagram and Twitter."
+        },
+        {
+            "op": "Certainly! @VITvitvellore on Instagram or Twitter!"
+        }
+    ],
+    
+    "gen_query": [
+        {"op":"Shoot away!"},
+        {"op":"You can ask me anything"},
+        {"op":"What's your question"},
+        {"op":"Ask me anything!"},
+        {"op":"Sure, If it's related to Alute"}], 
+    
+    "VIT_what": [
+        {"op":"VIT VIT is one of the most prestigious student college in India. We're a diverse group of tech enthusiasts, developers and designers who live with the motto: Advancing Technology for Humanity"},
+        {"op":"I'll tell you what it's NEVER: stagnant and boring!"},
+        {"op":"Vellore Institute of Technology!!!"}], 
+    
+    "gen_bot": [
+        {"op":"Indeed."},
+        {"op":"Yes, I am a bot"},
+        {"op":"Certainly not human"},
+        {"op":"You guessed it right"},
+        {"op":"Yup, I am a chatbot"}], 
+    
+    "VIT_future_events": [
+        {"op":"We have Enigma and CTF coming soon."},
+        {"op":"Enigma, CTF and a few workshops are about to see light of near future. Keep checking our socials for any updates!"},
+        {"op":"Be on lookout for Enigma, CTF and a few workshops!"}], 
+    
+    "VIT_further_contact": [
+        {"op":"You can contact us via our socials or mailing to collaborationVITvit@gmail.com"},
+        {
+            "op": "You can contact us via Insta or Twitter at @VITvitvellore or even mail us at collaborationVITvit@gmail.com"
+        }
+    ],
+    
+    "gen_how_you": [
+        {"op":"I am good, thanks for asking!"},
+        {"op":"I am great, thanks!"},
+        {"op":"Never better!"},
+        {"op":"Perfectly fine, thanks!"}], 
+    
+    "VIT_techloop": [
+        {"op":"A one of its kind initiative from VIT VIT that seeks to proliferate technical skills among students for every domain."},
+        {"op":"TechLoop is an interactive workshop conducted for the students of VIT every month which involves hands on sessions that result in stronger understanding of concepts to both speaker and the audience. This includes all the domains we have!"},
+        {"op":"A one of its kind initiative from VIT VIT that seeks to proliferate technical skills among students on every domain which we have."}], 
+    
+    "gen_bye" : [
+        {"op":"Bye!"},
+        {"op":"Goodbye!"},
+        {"op":"Until next time!"},
+        {
+            "op": "Adios!"
+        }
+    ],
+
+    "gen_bad": [
+        {"op": "Hey, mind your language!"},
+        {"op": "Don't talk to me like that :/"},
+        {"op": "Would you mind your language please?"},
+        {"op": "Hey, that's not cool, mind it!"}
+    ],
+    "invalid_query": [
+        {"op": "I didn't get you, could you please try again?"},
+        {"op": "I am not sure I understand, could you please try again?"},
+        {"op": "I am not sure what that means, could you try again?"},
+        {"op": "I don't know what that means, please try again"}
+    ]
+
+}
